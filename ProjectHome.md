@@ -1,0 +1,1 @@
+Seminar online is a platform where students can apply for certain research projects while advisors can review the reports submitted by their students as well as educational administrators can manage the seminar courses in Tsinghua University.
